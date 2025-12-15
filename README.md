@@ -46,8 +46,8 @@ To help users trust the file, consider publishing:
 - Roblox is downloaded and installed via **Microsoft Store**, under Microsoft's policies and mechanisms.
 
 ## Version
-- Version: 1.0.0  
-- Release date: _YYYY-MM-DD_
+- Version: 2.702.66.0  
+- Release date: 2025-11-09
 
 ## Support
 If you need help, contact: _your-support-email-or-link_
