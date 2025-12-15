@@ -48,6 +48,3 @@ To help users trust the file, consider publishing:
 ## Version
 - Version: 2.702.66.0  
 - Release date: 2025-11-09
-
-## Support
-If you need help, contact: _your-support-email-or-link_
